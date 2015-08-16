@@ -1,0 +1,11 @@
+{
+  "name": "tcp-discard-service",
+  "version": "0.0.1",
+  "description": "TCP based server implementing a RFC 863 discard service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ferdi Schmidt",
+  "license": "MIT"
+}
